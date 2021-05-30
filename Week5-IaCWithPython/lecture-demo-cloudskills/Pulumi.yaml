@@ -1,0 +1,6 @@
+name: lecture-demo-cloudskills
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Lecture Demo
