@@ -1,0 +1,6 @@
+name: aks-cluster-pulumi
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: aks-cluster-pulumi
